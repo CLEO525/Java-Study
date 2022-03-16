@@ -1,3 +1,5 @@
+package javastudybook;
+
 public class Variable {
     public static void main(String[] args) {
         int number;

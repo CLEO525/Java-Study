@@ -1,3 +1,5 @@
+package javastudybook;
+
 public class Number {
     public static void main(String[] args) {
         //정수형 변수

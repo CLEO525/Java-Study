@@ -1,3 +1,5 @@
+package javastudybook;
+
 public class MartEvent {
     public static void main(String[] args) {
         int ratio = 13;

@@ -1,3 +1,5 @@
+package javastudybook;
+
 public class Comment {
     public static void main(String[] args) {
         // 주석을 배워 봅시다라는 문장을 출력합니다.
